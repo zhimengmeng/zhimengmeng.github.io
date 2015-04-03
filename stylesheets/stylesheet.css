@@ -8,7 +8,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71;
-  background:#53a8bc; }
+  background:#08080a; }
 
 a {
   color: #1e6bb8;
@@ -59,11 +59,11 @@ a {
   text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957);
-  background:url(../images/68278_top.jpg); }
+  background:url(../images/75194_top.jpg);}
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding:5rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
@@ -97,13 +97,7 @@ a {
   opacity: 0.7; 
   width:475px;
   margin-top:-5px;}
-  .www {
-  margin-left:22px;
-  font-weight: normal;
-  opacity: 0.7; 
-  width:500px;
-  margin-top:-32px;}
-
+  
 @media screen and (min-width: 64em) {
   .project-tagline {
     font-size: 1.25rem; } }
@@ -256,3 +250,13 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+
+nav .middle{background:url(../../image/active/hd_03.gif)  repeat-x;width:1000px;height:40px;display:block;}
+.nav{margin-left:121px; width:1000px; height:auto;}  
+.middle ul li{float:left;width:170px;height:36px;line-height:38px;text-align:center;font-size:18px;}
+.middle li a:link,.middle li a:visited{color:#FFF; text-decoration:none;}
+.middle li a:hover{color:#d7f440;}
+ul li{list-style:none;}
+.middle{width:1000px; height:40px; margin-left:121px;}
+.lin{text-decoration:none;}
